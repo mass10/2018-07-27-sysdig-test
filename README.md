@@ -4,5 +4,5 @@
 sudo sysdig proc.name=abc.app
 ```
 
-![](".images/watching process by sysdig.png")
+![](.images/watching%20process%20by%20sysdig.png)
 
